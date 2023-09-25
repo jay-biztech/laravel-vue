@@ -23,8 +23,13 @@
      ```sh  
      php artisan migrate
      ```
+     
+6. Generate key
+   ```sh
+   php artisan key:generate
+   ```
 
-6. Run the proeject
+7. Run the proeject
    ```
    php artisan serve
    npm run dev
